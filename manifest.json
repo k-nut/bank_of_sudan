@@ -1,7 +1,7 @@
 {
   "bot_id": "bank_of_sudan",
-  "title": "My simple bot",
-  "description": "This is a simple bot",
+  "title": "Bank of Sudan",
+  "description": "Bot for opencorporates mission 759",
   "language": "python",
   "data_type": "primary data",
   "identifying_fields": [
@@ -12,9 +12,9 @@
   ],
   "frequency": "monthly",
   "publisher": {
-    "name": "Publisher of the data",
-    "url": "Publisher's website",
-    "terms": "Copyright terms (e.g. Open Government License, n/a, etc)",
-    "terms_url": "A place where these terms can be checked or verified"
+    "name": "Central Bank of Sudan",
+    "url": "http://www.cbos.gov.sd/en",
+    "terms": "n/a",
+    "terms_url": "n/a"
   }
 }
